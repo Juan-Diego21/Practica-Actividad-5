@@ -1,0 +1,46 @@
+.search {
+    float: right;
+    line-height: 80px;
+    position: relative; /* Agregamos posición relativa para posicionar el botón */
+}
+
+.blog {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.blog {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.blog img{
+  width: 30%;
+  margin: 10px;
+  box-sizing: border-box;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.blog h2 {
+    text-align: center;
+}
+
+.blog-entry {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: flex-start; /* Alinea los elementos en la parte superior del contenedor flex */
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
